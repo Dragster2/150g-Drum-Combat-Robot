@@ -33,7 +33,7 @@ This is a 150g eggbeater.
 
 **Total Time Spent: 1hr**
 
-# June 25, 2025 :Day 2, Fidnng Electronics and Starting the cad!!
+# June 25, 2025 :Day 2, Fidnng Electronics!!
 
 I have made many other combat robots and for this tiny of a robot I am going to use a HV Maleki. A maleki is a reciever with 3 brush esc built into it. I already have one on hand so I do not need one. :)
 
