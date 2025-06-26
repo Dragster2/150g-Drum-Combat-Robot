@@ -212,6 +212,14 @@ Now this is the hard bot, it might look done but in reality I need to lose a lot
 
 ![image](https://github.com/user-attachments/assets/61d9a2ec-8cb4-45ff-b80a-d6735076e734)
 
+I decided to start by taking even more weight off of the main chasis. Its basically hollow inside hopefully this does not become a problem. Good thing tpu is a strong flexible material!!
+
+![image](https://github.com/user-attachments/assets/da8c0988-0309-45c9-a1be-eb9a9acc6764)
+
+![image](https://github.com/user-attachments/assets/7dcb51b5-b3c7-4053-bd26-5f14adbef42b)
+
+
+
 
 
 
