@@ -57,7 +57,7 @@ For the switch I am running the fingertech power switchs. I have one extra so I 
 
 ![image](https://github.com/user-attachments/assets/aebfa1a0-6b2a-4832-a659-6acff0f6f209)
 
-And finally I need a battery to power the whole bot. Am planning on running 2s and probbaly below 200 or maybe 300. I think I am planning on running 300amp because it might be overkill but at least i can keep my weapon on for longer now! :) These are the batteries I am planning on using!
+And finally I need a battery to power the whole bot. Am planning on running 2s and probbaly below 200 or maybe 300. I think I am planning on running 300amp because it might be overkill but at least i can keep my weapon on for longer now! :) These are the batteries I am planning on using! My friend will let me buy some of his so for now I do not need these!!
 
 ![image](https://github.com/user-attachments/assets/41895e2c-9207-4f74-8bb7-7e32596d6653) 
 
@@ -69,8 +69,13 @@ Palying around with electronics more. For a robot this tiny you defentily want t
 
 ![image](https://github.com/user-attachments/assets/20753d3f-ae6a-4811-ad3a-c11db9a34fbe)
 
+I spent some time on some uprights and made them a little goofy but I think it be good for now!! :)
 
-**Total Time Spent: 2hr** 
+![image](https://github.com/user-attachments/assets/b56b2c6f-1837-44a6-9f62-778971bf3c8c)
+
+
+
+**Total Time Spent: 5hr** 
 
 
 
