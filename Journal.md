@@ -19,9 +19,11 @@ My goal with this robot is too but all the weigfht into my weapon so I am going 
 
 ![image](https://github.com/user-attachments/assets/384a6f5e-2f6c-4c5f-bc4c-d4ae2dd5c2fe)
 
-****![image](https://github.com/user-attachments/assets/a9422cae-2f3a-4ad5-85aa-59489a27c8d1)
+![image](https://github.com/user-attachments/assets/a9422cae-2f3a-4ad5-85aa-59489a27c8d1)
 
 This is a 150g eggbeater.
+
+
 ![image](https://github.com/user-attachments/assets/5305f9fb-e7b8-4fc5-8360-c0fe4cc6b799)
 
 
