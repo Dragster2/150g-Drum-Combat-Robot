@@ -178,6 +178,14 @@ Before I start to work on the top lid with the screw holes, I decided to render 
 
 ![image](https://github.com/user-attachments/assets/b8ac0d89-9351-46b9-8826-8a4758d051c4)
 
+I made the top lid screw holes and a hole for the switch. Next I need to start on weight calcs to see if this is in weight. Hopefully it is.
+
+![image](https://github.com/user-attachments/assets/0857d10c-0895-4a22-9457-ac7592ea9cb8)
+
+The weapon ways 37.257 grams. This is a good weight. 
+
+![image](https://github.com/user-attachments/assets/3ea40550-6646-4795-a7a7-7748ebaa4d19)
+
 
 
 
