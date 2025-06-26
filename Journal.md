@@ -61,6 +61,11 @@ And finally I need a battery to power the whole bot. Am planning on running 2s a
 
 ![image](https://github.com/user-attachments/assets/41895e2c-9207-4f74-8bb7-7e32596d6653) 
 
+Here is a basic setup on how most of the electronics would be!!
+
+![image](https://github.com/user-attachments/assets/9cd6210f-be45-4dd1-a42a-410cfbe6d76e)
+
+
 
 
 
