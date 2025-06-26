@@ -122,8 +122,6 @@ Made some motor mounts for the n20s.
 
 
 
-![image](https://github.com/user-attachments/assets/e641b6f4-52f7-4548-b34c-7eb2466939b8)
-
 ![image](https://github.com/user-attachments/assets/e6c6cdf9-56fa-4abb-902e-620bf0178cc8)
 
 ![image](https://github.com/user-attachments/assets/f2835261-bc3e-41bd-9fa0-69ebdec22392)
