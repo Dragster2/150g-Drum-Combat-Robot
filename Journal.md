@@ -32,3 +32,17 @@ This is a 150g eggbeater.
 
 
 **Total Time Spent: 1hr**
+
+# June 25, 2025 :Day 2, Fidnng Electronics and Starting the cad!!
+
+I have made many other combat robots and for this tiny of a robot I am going to use a HV Maleki. A maleki is a reciever with 3 brush esc built into it. I already have one on hand so I do not need one. :)
+
+![image](https://github.com/user-attachments/assets/f1d989c9-0409-46c7-bafd-dce53fcdc135)
+
+For drive, I am planning on running 2 n20s. I already have some n20s from turnabot on hand too. :)
+
+![image](https://github.com/user-attachments/assets/e2a3c0da-aee9-49a6-9394-90f127d840a5)
+
+The weapon has a bruhless motor meaning I woukd need to run a brushless esc. I am planning on running an 30 or 35amp esc. 
+
+
