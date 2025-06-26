@@ -33,7 +33,7 @@ This is a 150g eggbeater.
 
 **Total Time Spent: 1hr**
 
-# June 25, 2025 :Day 2, Fidnng Electronics and the start of Cad!!
+# June 26, 2025 :Day 2, Fidnng Electronics and the start of Cad!!
 
 I have made many other combat robots and for this tiny of a robot I am going to use a HV Maleki. A maleki is a reciever with 3 brush esc built into it. I already have one on hand so I do not need one. :)
 
@@ -43,8 +43,7 @@ For drive, I am planning on running 2 n20s. I already have some n20s from turnab
 
 ![image](https://github.com/user-attachments/assets/e2a3c0da-aee9-49a6-9394-90f127d840a5)
 
-The weapon has a bruhless motor meaning I woukd need to run a brushless esc. I am planning on running an 30 or 35amp esc. I have found these LANRC 35A ESC 2S-6S Brushless ESC Lipo BLHeli_S Electronic Speed. Only weights 6.6 grams!! 
-![image](https://github.com/user-attachments/assets/caddb57a-d1a4-4daf-8c36-54caf876156f)
+The weapon has a bruhless motor meaning I woukd need to run a brushless esc. I am planning on running an 30 or 35amp esc. I have found these LANRC 35A ESC 2S-6S Brushless ESC Lipo BLHeli_S Electronic Speed. Only weights 6.6 grams!! [image](https://github.com/user-attachments/assets/caddb57a-d1a4-4daf-8c36-54caf876156f)
 
 
 For the weapon motor, a light but powerful weapon motor. After asking around I have found the FLASH HOBBY BE1806 2300KV Brushless Motor Race Edition that is reliable and is only 18g!! https://www.amazon.com/FLASH-HOBBY-Brushless-Multicopters-160-210/dp/B08P5NYPSF?crid=EQ4JQ962UXVJ&dib=eyJ2IjoiMSJ9.U90jhGsQGGXMEwaUxvzk48HnMLo67p6-mPxNleFnu3HFKt64LqoMZtbiOANZS_aRSmLfFtNl0AxJMwi3T4anZOZY_tKnFLhtZzafRpdT6RFbssVkQ4yBvrYGVG6itK-dl8r-o0W_qn7UqD0hKITR9tjioxX0YVi3r1m6Hy-MP5CZUgppO5gJyLXpLUXS8EXFKFFCo6uH4NhXV1PVzqQqHA.fslRJlFLbqJ4JE7HCJYE6OTEDNc0PDhinF1i0BilqA0&dib_tag=se&keywords=1806+brushless+motor&qid=1718426824&sprefix=1806%2Caps%2C153&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRm&psc=1
@@ -73,9 +72,19 @@ I spent some time on some uprights and made them a little goofy but I think it b
 
 ![image](https://github.com/user-attachments/assets/b56b2c6f-1837-44a6-9f62-778971bf3c8c)
 
+I started on the weapon. I have the weapon motor in the weapon!!
+![image](https://github.com/user-attachments/assets/8f41a8ef-e313-47ce-a954-dc6800e13abc)
+
+![image](https://github.com/user-attachments/assets/77644300-5baa-4e99-b49a-d4222de04381)
+
+ I went check how much it is and it turns out to be a decent price even with a hard material like tool steal. Am going to redesign to be  normal eggbeater. 
+
+ ![image](https://github.com/user-attachments/assets/9c6eac69-b53c-4bed-b7b4-3d94ab1ddfd3)
 
 
-**Total Time Spent: 5hr** 
+**Total Time Spent: 3hr** 
+
+
 
 
 
