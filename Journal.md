@@ -83,7 +83,7 @@ I started on the weapon. I have the weapon motor in the weapon!!
 
  After some time working on the eggbeater I am going to keep it aluminum because this only has 150g to use. Made many other eggbeaters before this one.
 
-![image](https://github.com/user-attachments/assets/8185e9d8-83c2-4cff-b622-d6446a6a85f8)
+
 
  
 
@@ -92,7 +92,9 @@ I started on the weapon. I have the weapon motor in the weapon!!
 
 # June 26, 2025 :Day 3 cad!!
 
-Started today by making a new weapon taht will be made out of tool steal.
+Started today by making a new weapon that will be made out of tool steal.
+
+![image](https://github.com/user-attachments/assets/8185e9d8-83c2-4cff-b622-d6446a6a85f8)
 
 ![image](https://github.com/user-attachments/assets/e87c9964-d1d0-4c15-807a-2dd08ff8319b)
 
