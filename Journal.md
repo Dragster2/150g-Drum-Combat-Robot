@@ -75,6 +75,8 @@ I spent some time on some uprights and made them a little goofy but I think it b
 ![image](https://github.com/user-attachments/assets/b56b2c6f-1837-44a6-9f62-778971bf3c8c)
 
 I started on the weapon. I have the weapon motor in the weapon, easier than using belts and have porven to be reliably in other bots people and I have made. 
+
+
 ![image](https://github.com/user-attachments/assets/8f41a8ef-e313-47ce-a954-dc6800e13abc)
 
 ![image](https://github.com/user-attachments/assets/77644300-5baa-4e99-b49a-d4222de04381)
