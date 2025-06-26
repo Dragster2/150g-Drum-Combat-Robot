@@ -220,12 +220,15 @@ I decided to start by taking even more weight off of the main chasis. Its basica
 
 ![image](https://github.com/user-attachments/assets/ff21f9a9-2cbb-4cbb-bfee-b19de541ffb4)
 
-Both of these changes helped it out a little but I still need to take more weight off just to be safe and for the wheels. I also need to gocheck to see how much this would cost for Carbon Fiber.
+Both of these changes helped it out a little but I still need to take more weight off just to be safe and for the wheels. I also need to go check to see how much this would cost for Carbon Fiber. I submitted the quote to see. 
 
 
 
 ![image](https://github.com/user-attachments/assets/6cdb4f2c-44b6-45a9-87aa-ae2b7aada08a)
 
+
+
+![image](https://github.com/user-attachments/assets/0aebe7d0-d520-43f3-845b-d3e846900b32)
 
 
 
