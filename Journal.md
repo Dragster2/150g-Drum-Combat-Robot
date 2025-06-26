@@ -209,6 +209,11 @@ I updated the main chasis to be 26.61 grams. I also updated the armor too. Good 
 
 ![image](https://github.com/user-attachments/assets/b86660ca-a2e1-4f2d-91ae-ab4eb834f43e)
 
+Now this is the hard bot, it might look done but in reality I need to lose a lot of weight off this bot. I was thinkig on making the eapon smaller but, then I am not putting all the weight into my weapon like I said before. Therefore, I am going to try my best to not change the weapon. I am ovber by 6 grams. I could lose this weight by only going 1 wall for my main chasis but I feel like that be way to weak. I cant take anymore off the armor unless I pyscally make it smaller. I still need to but the weight of the wheel in too. I could swap my n20s for n10s that are lighter. But i dont save much. The top plate is 8grams and honesalty that is way to much. But How can I lose this weight. I can't change the infill anymore it still weights the same. I could try a different material. But if I decided to make out of carbon or something else ot might be too expensive.
+
+
+![image](https://github.com/user-attachments/assets/61d9a2ec-8cb4-45ff-b80a-d6735076e734)
+
 
 
 
