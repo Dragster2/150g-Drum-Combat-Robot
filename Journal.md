@@ -81,7 +81,7 @@ I started on the weapon. I have the weapon motor in the weapon, easier than usin
 
 ![image](https://github.com/user-attachments/assets/77644300-5baa-4e99-b49a-d4222de04381)
 
- I went check how much it is and it turns out to be a decent price even with a hard material like tool steal. Am going to redesign to be normal eggbeater. This means with no screw on teath. 
+ I went to check how much it is and it turns out to be a decent price even with a hard material like tool steal. Am going to redesign to be normal eggbeater. This means with no screw on teath. 
 
  ![image](https://github.com/user-attachments/assets/9c6eac69-b53c-4bed-b7b4-3d94ab1ddfd3)
 
