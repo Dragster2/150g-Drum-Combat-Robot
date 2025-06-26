@@ -56,7 +56,7 @@ For the switch I am running the fingertech power switchs. I have one extra so I 
 
 ![image](https://github.com/user-attachments/assets/aebfa1a0-6b2a-4832-a659-6acff0f6f209)
 
-And finally I need a battery to power the whole bot. Am planning on running 2s. 
+And finally I need a battery to power the whole bot. Am planning on running 2s and probbaly below 200 or maybe 300. I think I am planning on running 300amp because it might be overkill but at least i can keep my weapon on for longer now! :)
 
 
 
