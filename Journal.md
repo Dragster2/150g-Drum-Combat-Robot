@@ -198,7 +198,7 @@ With everything at 4 walls I am overweight. This is okay because I dont need thi
 
 ![image](https://github.com/user-attachments/assets/9be0a5fb-5087-4450-b06b-680e3c9eb8e0)
 
-I updates the made chasis to be 26.61 grams. I also updated the armor too. Good thing the hub is light tho!! The problem is this is not enought. I am not even counting the tires yet! I will need to make some changes.
+I updated the main chasis to be 26.61 grams. I also updated the armor too. Good thing the hub is light tho!! The problem is this is not enought. I am not even counting the tires yet! I will need to make some changes.
 
 
 ![Screenshot 2025-06-26 125646](https://github.com/user-attachments/assets/4fcbb8ec-b536-4e9b-9294-4672254beeed)
