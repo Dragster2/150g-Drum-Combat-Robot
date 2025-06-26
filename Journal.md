@@ -90,7 +90,7 @@ I started on the weapon. I have the weapon motor in the weapon!!
  
 
 
-**Total Time Spent: 5hr** 
+**Total Time Spent: 4hr** 
 
 # June 26, 2025 :Day 3 cad!!
 
@@ -243,7 +243,7 @@ After all the changes I am finally in weight! This is the final version of the b
 ![image](https://github.com/user-attachments/assets/a1f608ca-3bd4-498a-984a-7387e7887e8f)
 
 
-
+**Total Time Spent: 8hr** 
 
 
 
