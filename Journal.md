@@ -174,6 +174,11 @@ How it looks on the robot now!!
 
 ![image](https://github.com/user-attachments/assets/72e532fa-3de0-4ddb-b0c6-6a63f52f1771)
 
+Before I start to work on the top lid with the screw holes, I decided to render the bot to see what it looks like. In my opion I think it is looking really good so far. All the black on the bot is made out of 95 tpu that I have and the white taht is the main body will be made out of 98 tpu that I also have. The weapon is going to be made from pcbway out of toolsteel s7!
+
+![image](https://github.com/user-attachments/assets/b8ac0d89-9351-46b9-8826-8a4758d051c4)
+
+
 
 
 
