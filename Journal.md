@@ -43,7 +43,7 @@ For drive, I am planning on running 2 n20s or n10s. N20s are more powerful so if
 
 ![image](https://github.com/user-attachments/assets/e2a3c0da-aee9-49a6-9394-90f127d840a5)
 
-The weapon has a bruhless motor meaning I woukd need to run a brushless esc. I am planning on running an 30 or 35amp esc. I have found these LANRC 35A ESC 2S-6S Brushless ESC Lipo BLHeli_S Electronic Speed. Only weights 6.6 grams!! They have plenty of amps and are a resable cost on amazon.
+The weapon has a bruhless motor meaning I would need to run a brushless esc. I am planning on running an 30 or 35amp esc. I have found these LANRC 35A ESC 2S-6S Brushless ESC Lipo BLHeli_S Electronic Speed. Only weights 6.6 grams!! They have plenty of amps and are a resable cost on amazon.
 
 [image](https://github.com/user-attachments/assets/caddb57a-d1a4-4daf-8c36-54caf876156f)
 
@@ -66,69 +66,62 @@ Here is a basic setup on how most of the electronics would be!! I need to make s
 
 ![image](https://github.com/user-attachments/assets/9cd6210f-be45-4dd1-a42a-410cfbe6d76e)
 
-Playing around with electronics more. For a robot this tiny you defentily want to spend some time with this. It will be helpful later on!!
+Playing around with electronics more. For a robot this tiny you definitely want to spend some time with this. It will be helpful later on!!
 
 ![image](https://github.com/user-attachments/assets/20753d3f-ae6a-4811-ad3a-c11db9a34fbe)
 
-I spent some time on some uprights and made them a little goofy but I think it be good for now!! :)
+I spent some time on some uprights and made them a little goofy but I think it be good for now!! :) I can always change them later.
 
 ![image](https://github.com/user-attachments/assets/b56b2c6f-1837-44a6-9f62-778971bf3c8c)
 
-I started on the weapon. I have the weapon motor in the weapon!!
+I started on the weapon. I have the weapon motor in the weapon, easier than using belts and have porven to be reliably in other bots people and I have made. 
 ![image](https://github.com/user-attachments/assets/8f41a8ef-e313-47ce-a954-dc6800e13abc)
 
 ![image](https://github.com/user-attachments/assets/77644300-5baa-4e99-b49a-d4222de04381)
 
- I went check how much it is and it turns out to be a decent price even with a hard material like tool steal. Am going to redesign to be  normal eggbeater. 
+ I went check how much it is and it turns out to be a decent price even with a hard material like tool steal. Am going to redesign to be normal eggbeater. This means with no screw on teath. 
 
  ![image](https://github.com/user-attachments/assets/9c6eac69-b53c-4bed-b7b4-3d94ab1ddfd3)
-
- After some time working on the eggbeater I am going to keep it aluminum because this only has 150g to use. Made many other eggbeaters before this one.
-
-
-
- 
 
 
 **Total Time Spent: 4hr** 
 
 # June 26, 2025 :Day 3 cad!!
 
-Started today by making a new weapon that will be made out of tool steal.
+Started today by making a new weapon that will be made out of tool steal. This weapon is solid and does not need screws as teath like my old weapon did. 
 
 ![image](https://github.com/user-attachments/assets/8185e9d8-83c2-4cff-b622-d6446a6a85f8)
 
 ![image](https://github.com/user-attachments/assets/e87c9964-d1d0-4c15-807a-2dd08ff8319b)
 
-Redoing the cad for this smaller but wider weapon that would be made out of tool steal s7.
+Redoing the cad for this smaller but wider weapon that would be made out of tool steal s7. I am making it wide like vector does because I think it looks clean and would make it be better for damage too. 
 
 ![image](https://github.com/user-attachments/assets/d1bd2225-d98d-4cc0-a33f-49686a9ef89d)
 
-I decided to change to this motor that is made for combat.
+I decided to change to this motor that is made for combat. This motor is from Repeat Robotics and would fit nicely on my new weapon. It is a little more money but it is a gopod motor. I also can choose what kv I want. Lower kv means less top speed but more torque and higher Kv means higher top speed less torque. I was thinking on the lower put not thinking about ti I should go all out with the higher kv one because it will probably do more damage and I have a big battery for it. 
 
 ![image](https://github.com/user-attachments/assets/73a1eb0f-0bd0-4404-84c1-190b061a88cd)
 
-Continuing cadding the robot weapons and its body. Defentily going to be a wide bot.
+Continuing cadding the robot weapons and its body. Defentily going to be a wide bot. That is a good thing because it is harder for the oponent to get around you. Hopefully this will be in weight!!
 
 ![image](https://github.com/user-attachments/assets/7c159a14-9007-44cb-b3b6-3a381920b490)
 
-More photos!
+More photos nnshowing off the inside and how it looks at this point of me caddong the bot. I think this looks way better than the first one!!
 
 ![image](https://github.com/user-attachments/assets/4511757f-d40f-45c9-9014-48bf1d028403)
 
 ![image](https://github.com/user-attachments/assets/7b51d6da-3bb9-46e4-963e-a019fc04507a)
 
-Made some motor mounts for the n20s.
+Made some motor mounts for the n20s. I did this by making a sketch off the n20s and projecting the line from it. I made a box around them so they can just slide in from the top. They should saty in place! Making it have screws. This will make repairing and assembly way easier in my oponion!!
 
 ![image](https://github.com/user-attachments/assets/49123c0a-5d4e-4c88-a550-748faa850b78)
-
 
 
 ![image](https://github.com/user-attachments/assets/e6c6cdf9-56fa-4abb-902e-620bf0178cc8)
 
 ![image](https://github.com/user-attachments/assets/f2835261-bc3e-41bd-9fa0-69ebdec22392)
 
-Seeing how much the weapon would cost.
+Seeing how much the weapon would cost, does not seem bad at only around 40 but I still need a person to look at it too see how much it acutally cost. Hopefully tis not that bad.
 
 ![image](https://github.com/user-attachments/assets/deb079cd-00b3-4822-b42d-76ee2f33cad8)
 
