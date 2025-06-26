@@ -152,7 +152,25 @@ More mounting.
 
  ![image](https://github.com/user-attachments/assets/288fd03c-cb15-4ec7-ae3f-f098c06790fe)
 
+One side of the weapon is hold by the motor but the other side needs something to hold it. I am going to run a repeat axel that I have on hand with a bearing I also have on hand to hold the other side!
 
+![image](https://github.com/user-attachments/assets/d00cb4bc-034d-460e-9b6a-cfec7e2558fe)
+
+This is an tpu bearing adopter for bearing to go on the weapon.
+
+![image](https://github.com/user-attachments/assets/0dd05642-640a-4515-9754-22e31d17fea8)
+
+Here it looks like on the weapon too!! Will be made out of 95 tpu that I have on hand. 
+
+![image](https://github.com/user-attachments/assets/8bb7c8d6-0188-4db1-8e92-da5dbb9ff8fc)
+
+Bearing goes in the hole.
+
+![image](https://github.com/user-attachments/assets/3254fb6d-801a-4f60-8131-d1459152f5a1)
+
+How it looks on the robot now!!
+
+![image](https://github.com/user-attachments/assets/72e532fa-3de0-4ddb-b0c6-6a63f52f1771)
 
 
 
