@@ -218,7 +218,13 @@ I decided to start by taking even more weight off of the main chasis. Its basica
 
 ![image](https://github.com/user-attachments/assets/7dcb51b5-b3c7-4053-bd26-5f14adbef42b)
 
+![image](https://github.com/user-attachments/assets/6cdb4f2c-44b6-45a9-87aa-ae2b7aada08a)
+
+Both of these changes helped it out a little but I still need to take more weight off jyst to be safe and for the wheels. I also need to gocheck to see how much this would cost for Carbon Fiber.
+
 ![Uploading image.png…]()
+
+
 
 
 
