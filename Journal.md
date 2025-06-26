@@ -43,7 +43,8 @@ For drive, I am planning on running 2 n20s. I already have some n20s from turnab
 
 ![image](https://github.com/user-attachments/assets/e2a3c0da-aee9-49a6-9394-90f127d840a5)
 
-The weapon has a bruhless motor meaning I woukd need to run a brushless esc. I am planning on running an 30 or 35amp esc. I have found these LANRC 35A ESC 2S-6S Brushless ESC Lipo BLHeli_S Electronic Speed
+The weapon has a bruhless motor meaning I woukd need to run a brushless esc. I am planning on running an 30 or 35amp esc. I have found these LANRC 35A ESC 2S-6S Brushless ESC Lipo BLHeli_S Electronic Speed. Only weights 6.6 grams!! 
+![image](https://github.com/user-attachments/assets/caddb57a-d1a4-4daf-8c36-54caf876156f)
 
 
 For the weapon motor, a light but powerful weapon motor. After asking around I have found the FLASH HOBBY BE1806 2300KV Brushless Motor Race Edition that is reliable and is only 18g!! https://www.amazon.com/FLASH-HOBBY-Brushless-Multicopters-160-210/dp/B08P5NYPSF?crid=EQ4JQ962UXVJ&dib=eyJ2IjoiMSJ9.U90jhGsQGGXMEwaUxvzk48HnMLo67p6-mPxNleFnu3HFKt64LqoMZtbiOANZS_aRSmLfFtNl0AxJMwi3T4anZOZY_tKnFLhtZzafRpdT6RFbssVkQ4yBvrYGVG6itK-dl8r-o0W_qn7UqD0hKITR9tjioxX0YVi3r1m6Hy-MP5CZUgppO5gJyLXpLUXS8EXFKFFCo6uH4NhXV1PVzqQqHA.fslRJlFLbqJ4JE7HCJYE6OTEDNc0PDhinF1i0BilqA0&dib_tag=se&keywords=1806+brushless+motor&qid=1718426824&sprefix=1806%2Caps%2C153&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9zZWFyY2hfYXRm&psc=1
@@ -56,7 +57,10 @@ For the switch I am running the fingertech power switchs. I have one extra so I 
 
 ![image](https://github.com/user-attachments/assets/aebfa1a0-6b2a-4832-a659-6acff0f6f209)
 
-And finally I need a battery to power the whole bot. Am planning on running 2s and probbaly below 200 or maybe 300. I think I am planning on running 300amp because it might be overkill but at least i can keep my weapon on for longer now! :)
+And finally I need a battery to power the whole bot. Am planning on running 2s and probbaly below 200 or maybe 300. I think I am planning on running 300amp because it might be overkill but at least i can keep my weapon on for longer now! :) These are the batteries I am planning on using!
+
+![image](https://github.com/user-attachments/assets/41895e2c-9207-4f74-8bb7-7e32596d6653) 
+
 
 
 
