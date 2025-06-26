@@ -94,7 +94,24 @@ I started on the weapon. I have the weapon motor in the weapon!!
 
 Started today by making a new weapon taht will be made out of tool steal.
 
+![image](https://github.com/user-attachments/assets/e87c9964-d1d0-4c15-807a-2dd08ff8319b)
+
+Redoing the cad for this smaller but wider weapon that would be made out of tool steal s7.
+
+![image](https://github.com/user-attachments/assets/d1bd2225-d98d-4cc0-a33f-49686a9ef89d)
+
+I decided to change to this motor that is made for combat.
+
+![image](https://github.com/user-attachments/assets/73a1eb0f-0bd0-4404-84c1-190b061a88cd)
+
+Continuing cadding the robot weapons and its body. Defentily going to be a wide bot.
+
+![image](https://github.com/user-attachments/assets/7c159a14-9007-44cb-b3b6-3a381920b490)
+
+More photos!
+
 ![Uploading image.png…]()
+
 
 
 
