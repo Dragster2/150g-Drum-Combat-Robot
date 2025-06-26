@@ -110,10 +110,12 @@ Continuing cadding the robot weapons and its body. Defentily going to be a wide 
 
 More photos!
 
+![image](https://github.com/user-attachments/assets/4511757f-d40f-45c9-9014-48bf1d028403)
+
+![image](https://github.com/user-attachments/assets/7b51d6da-3bb9-46e4-963e-a019fc04507a)
+
+
 ![Uploading image.png…]()
-
-
-
 
 
 
