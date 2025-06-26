@@ -81,6 +81,12 @@ I started on the weapon. I have the weapon motor in the weapon!!
 
  ![image](https://github.com/user-attachments/assets/9c6eac69-b53c-4bed-b7b4-3d94ab1ddfd3)
 
+ After soime time working on the eggbeater I am going to keep it aluminum because this only has 150g to use. 
+
+![Uploading image.png…]()
+
+ 
+
 
 **Total Time Spent: 3hr** 
 
