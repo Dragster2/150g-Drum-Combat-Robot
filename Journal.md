@@ -234,6 +234,12 @@ To lose even more weight I thib=nk I need to switch to 2 n10s instead of 2 n20s.
 
 ![image](https://github.com/user-attachments/assets/4d495c4f-c648-4a11-9d1c-2d0ce5a65839)
 
+![image](https://github.com/user-attachments/assets/403843a7-28b0-432e-ae97-c77ed8f697e4)
+
+After all the changes I am finally in weight! This is the final version of the bot!
+
+![image](https://github.com/user-attachments/assets/a1f608ca-3bd4-498a-984a-7387e7887e8f)
+
 
 
 
