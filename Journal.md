@@ -182,10 +182,28 @@ I made the top lid screw holes and a hole for the switch. Next I need to start o
 
 ![image](https://github.com/user-attachments/assets/0857d10c-0895-4a22-9457-ac7592ea9cb8)
 
-The weapon ways 37.257 grams. This is a good weight. 
+The weapon ways 37.257 grams. This is a good weight. The frame with around 4 walls and 15 percent infill is around 32.21g. This is good. Time to weight calc it all.
 
 ![image](https://github.com/user-attachments/assets/3ea40550-6646-4795-a7a7-7748ebaa4d19)
 
+![image](https://github.com/user-attachments/assets/d93493af-b1e3-4974-9cba-40a87d4ce73e)
+
+Armor with 4 walls 15 percent infil is 3.19g each. The reason why I would not want to make it solid is because you want tpu to flex and it does not flex well if it is solid. The top lid is around 8.68g with same setting.
+
+![image](https://github.com/user-attachments/assets/df92f26f-3271-47e8-8f66-db93fa2eb969)
+
+![image](https://github.com/user-attachments/assets/2eb2ed1f-3921-43ad-ab0f-954e0e102671)
+
+With everything at 4 walls I am overweight. This is okay because I dont need this many walls for the tpu. For example the top lid does not need to be this solid and also I doubt I have 10 grams of wires in this bot. I need to play around with it more.
+
+![image](https://github.com/user-attachments/assets/9be0a5fb-5087-4450-b06b-680e3c9eb8e0)
+
+I updates the made chasis to be 26.61 grams. I also updated the armor too
+
+
+![Screenshot 2025-06-26 125646](https://github.com/user-attachments/assets/4fcbb8ec-b536-4e9b-9294-4672254beeed)
+
+![image](https://github.com/user-attachments/assets/bc29c7aa-3ed9-4d9e-b431-6908775edeb8)
 
 
 
