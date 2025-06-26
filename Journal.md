@@ -9,3 +9,6 @@ created_at: "2025-06-25"
 
 # June 25, 2025 :Day 1, the start of the design.
 
+ww
+
+**Total Time Spent: 1hr**
