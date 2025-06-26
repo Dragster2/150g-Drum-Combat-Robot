@@ -65,6 +65,8 @@ Here is a basic setup on how most of the electronics would be!!
 
 ![image](https://github.com/user-attachments/assets/9cd6210f-be45-4dd1-a42a-410cfbe6d76e)
 
+**Total Time Spent: 2hr** 
+
 
 
 
