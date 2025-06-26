@@ -81,14 +81,14 @@ I started on the weapon. I have the weapon motor in the weapon!!
 
  ![image](https://github.com/user-attachments/assets/9c6eac69-b53c-4bed-b7b4-3d94ab1ddfd3)
 
- After soime time working on the eggbeater I am going to keep it aluminum because this only has 150g to use. 
+ After some time working on the eggbeater I am going to keep it aluminum because this only has 150g to use. Made many other eggbeaters before this one.
 
 ![image](https://github.com/user-attachments/assets/8185e9d8-83c2-4cff-b622-d6446a6a85f8)
 
  
 
 
-**Total Time Spent: 4hr** 
+**Total Time Spent: 5hr** 
 
 # June 26, 2025 :Day 3 cad!!
 
