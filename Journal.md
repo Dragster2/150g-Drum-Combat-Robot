@@ -108,7 +108,7 @@ Continuing cadding the robot weapons and its body. Defentily going to be a wide 
 
 ![image](https://github.com/user-attachments/assets/7c159a14-9007-44cb-b3b6-3a381920b490)
 
-More photos nnshowing off the inside and how it looks at this point of me caddong the bot. I think this looks way better than the first one!!
+More photos nnshowing off the inside and how it looks at this point of me cadding the bot. I think this looks way better than the first one!!
 
 ![image](https://github.com/user-attachments/assets/4511757f-d40f-45c9-9014-48bf1d028403)
 
@@ -129,35 +129,35 @@ Seeing how much the weapon would cost, does not seem bad at only around 40 but I
 
 ![image](https://github.com/user-attachments/assets/d954adbd-8c6f-4590-b302-e3408b3a1c2e)
 
-Started on some armor.
+Started on some armor. I wanted to mount the forks to the armor. Forks are helpful in combat because it helps to get under the other bot letting you control them and hit them even harder!!
 
 ![image](https://github.com/user-attachments/assets/fa32eb64-d563-406c-a4e0-2e71e1cb656b)
 
 ![image](https://github.com/user-attachments/assets/ce414a26-08b0-49bc-8f15-98840752d9b9)
 
-Made some armor mounts!!
+Made some armor mounts!! I mounted the armor in the middle to hold it on and in the front to to help with the fork. Hopefully this is solid enought!!
 
 ![image](https://github.com/user-attachments/assets/c58fc70d-ec8e-4aba-9ee5-6dab6b2aef02)
 
-Got the screw holes for it.
+Got the screw holes for it. For tpu you want the hole to be 1.8mm wide for a 3mm screw because you want it to thread into the tpu. 
 
 ![image](https://github.com/user-attachments/assets/121aa141-d44f-4af8-822d-07b3e7a81989)
 
 ![image](https://github.com/user-attachments/assets/8e1478be-ceb8-4ec7-a572-b1d44f0c919c)
 
-More mounting.
+More mounting. The armor is mounted by 2 screws on both sides. For both armor, 4 screws are necesarey. Not bad. 
 
  ![image](https://github.com/user-attachments/assets/288fd03c-cb15-4ec7-ae3f-f098c06790fe)
 
-One side of the weapon is hold by the motor but the other side needs something to hold it. I am going to run a repeat axel that I have on hand with a bearing I also have on hand to hold the other side!
+One side of the weapon is hold by the motor but the other side needs something to hold it. I am going to run a repeat axel that I have on hand with a bearing that I also have on hand to hold the other side! I have done this with my plant that is a all plastic 1lb combat robot and seems to work really well. This should be pletny of strenght to hold this weapon too. 
 
 ![image](https://github.com/user-attachments/assets/d00cb4bc-034d-460e-9b6a-cfec7e2558fe)
 
-This is an tpu bearing adopter for bearing to go on the weapon.
+This is an tpu bearing adopter for bearing to go on the weapon. The bearing adopter would help absorb the impact wit the weapon hit the other bot. It also holds the bearing in place. two for one deal. 
 
 ![image](https://github.com/user-attachments/assets/0dd05642-640a-4515-9754-22e31d17fea8)
 
-Here it looks like on the weapon too!! Will be made out of 95 tpu that I have on hand. 
+Here what it looks like on the weapon too!! Will be made out of 95 tpu that I have on hand. 
 
 ![image](https://github.com/user-attachments/assets/8bb7c8d6-0188-4db1-8e92-da5dbb9ff8fc)
 
