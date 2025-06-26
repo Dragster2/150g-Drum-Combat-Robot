@@ -7,7 +7,7 @@ created_at: "2025-06-25"
 
 # Total Time Spent 1 hour
 
-# June 25, 2025 :Day 1, the start of the design.
+# June 24, 2025 :Day 1, the start of the design.
 
 I have made many 1lb combat robots and one thing I always wanted to make is a drum/eggbeater. Making a drum/eggbeater with like titanium would be really expensive. So instead I am going to make a 150g bot that is a drum to be cheaper. The drum would be made out of aluminum with potential impact teath.
 
@@ -33,7 +33,7 @@ This is a 150g eggbeater.
 
 **Total Time Spent: 1hr**
 
-# June 26, 2025 :Day 2, Fidnng Electronics and the start of Cad!!
+# June 25, 2025 :Day 2, Fidnng Electronics and the start of Cad!!
 
 I have made many other combat robots and for this tiny of a robot I am going to use a HV Maleki. A maleki is a reciever with 3 brush esc built into it. I already have one on hand so I do not need one. :)
 
@@ -90,7 +90,7 @@ I started on the weapon. I have the weapon motor in the weapon!!
 
 **Total Time Spent: 4hr** 
 
-# June 27, 2025 :Day 3 cad!!
+# June 26, 2025 :Day 3 cad!!
 
 Started today by making a new weapon taht will be made out of tool steal.
 
@@ -131,6 +131,26 @@ Seeing how much the weapon would cost.
 ![image](https://github.com/user-attachments/assets/deb079cd-00b3-4822-b42d-76ee2f33cad8)
 
 ![image](https://github.com/user-attachments/assets/d954adbd-8c6f-4590-b302-e3408b3a1c2e)
+
+Started on some armor.
+
+![image](https://github.com/user-attachments/assets/fa32eb64-d563-406c-a4e0-2e71e1cb656b)
+
+![image](https://github.com/user-attachments/assets/ce414a26-08b0-49bc-8f15-98840752d9b9)
+
+Made some armor mounts!!
+
+![image](https://github.com/user-attachments/assets/c58fc70d-ec8e-4aba-9ee5-6dab6b2aef02)
+
+Got the screw holes for it.
+
+![image](https://github.com/user-attachments/assets/121aa141-d44f-4af8-822d-07b3e7a81989)
+
+![image](https://github.com/user-attachments/assets/8e1478be-ceb8-4ec7-a572-b1d44f0c919c)
+
+More mounting.
+
+ ![image](https://github.com/user-attachments/assets/288fd03c-cb15-4ec7-ae3f-f098c06790fe)
 
 
 
