@@ -114,8 +114,25 @@ More photos!
 
 ![image](https://github.com/user-attachments/assets/7b51d6da-3bb9-46e4-963e-a019fc04507a)
 
+Made some motor mounts for the n20s.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/49123c0a-5d4e-4c88-a550-748faa850b78)
+
+
+
+![image](https://github.com/user-attachments/assets/e641b6f4-52f7-4548-b34c-7eb2466939b8)
+
+![image](https://github.com/user-attachments/assets/e6c6cdf9-56fa-4abb-902e-620bf0178cc8)
+
+![image](https://github.com/user-attachments/assets/f2835261-bc3e-41bd-9fa0-69ebdec22392)
+
+Seeing how much the weapon would cost.
+
+![image](https://github.com/user-attachments/assets/deb079cd-00b3-4822-b42d-76ee2f33cad8)
+
+![image](https://github.com/user-attachments/assets/d954adbd-8c6f-4590-b302-e3408b3a1c2e)
+
+
 
 
 
