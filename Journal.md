@@ -227,7 +227,7 @@ Both of these changes helped it out a little but I still need to take more weigh
 
 ![image](https://github.com/user-attachments/assets/0aebe7d0-d520-43f3-845b-d3e846900b32)
 
-To lose even more weight I thib=nk I need to switch to 2 n10s instead of 2 n20s. I would save about 1 grams from each motor. I can also have a smaller battery for this bot. The problem is I already have these small bateries and I want to use them. What else can I do? I think I need to mess with the armor a little more so I can lose a couple more grams hopefully!! 
+To lose even more weight I think I need to switch to 2 n10s instead of 2 n20s. I would save about 1 grams from each motor. I can also have a smaller battery for this bot. The problem is I already have these small bateries and I want to use them. What else can I do? I think I need to mess with the armor a little more so I can lose a couple more grams hopefully!! 
 
 ![image](https://github.com/user-attachments/assets/4d495c4f-c648-4a11-9d1c-2d0ce5a65839)
 
