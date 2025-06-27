@@ -50,7 +50,7 @@ The weapon has a brushless motor meaning I would need to run a brushless esc. I 
 
 
 
-For the weapon motor, I am using light but powerful weapon motor. After asking around I have found the FLASH HOBBY BE1806 2300KV Brushless Motor Race Edition which is reliable and is only 18g!! I will either use this one or potential one that repeat robotics sell. 
+For the weapon motor, I am using light but powerful weapon motor. After asking around I have found the FLASH HOBBY BE1806 2300KV Brushless Motor Race Edition which is reliable and is only 18g!! I will either use this one or a potential one that repeat robotics sells. 
 
 ![image](https://github.com/user-attachments/assets/cbecf5bf-21d7-4de3-8c35-fa7ac20a136a)
 
