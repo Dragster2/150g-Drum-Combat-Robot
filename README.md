@@ -15,3 +15,11 @@ The reason why I wanted to make this robot is because of many things. First I lo
 
 
 ![image](https://github.com/user-attachments/assets/c77ffcd9-56d6-47bc-8980-7be8095ffa10)
+
+![image](https://github.com/user-attachments/assets/0d13174e-4579-43fc-8414-12f6ce5dd5a4)
+
+![image](https://github.com/user-attachments/assets/411148af-95ea-4bf5-a8ec-e8e3bd7fdbf3)
+
+
+![image](https://github.com/user-attachments/assets/cceeaade-4005-4aef-8ca4-60d5ed59e7a2)
+
