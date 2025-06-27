@@ -56,7 +56,7 @@ For the weapon motor, I am using light but powerful weapon motor. After asking a
 
 
 
-For the switch I am running the fingertech power switchs. They are reliably and never failed me before. I have one extra so I do not need this. :)
+For the power switch I am running the fingertech power switchs. They are reliably and never failed me before. I have one extra so I do not need this. :)
 
 ![image](https://github.com/user-attachments/assets/aebfa1a0-6b2a-4832-a659-6acff0f6f209)
 
