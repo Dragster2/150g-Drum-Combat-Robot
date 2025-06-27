@@ -29,13 +29,13 @@ The reason why I wanted to make this robot is because of many things. First I lo
 
 # BOM
 
-| Part                 | Quantity | Price      | Total Price | Weight  | Provider |
-|----------------------|---------:|-----------:|------------:|--------:|----------|
-| Weapon               |        1 | $89        |  $89        | 37.257  |  |
-| Top Plate CF         |        1 | $10        | $10         | 6.025   | [Repeat Robotics](https://teammalice.com/index.php/product/repeat-robotics-axle-ant-2pcs/) |
-| Weapon Motors        |        1 | $50        | $100        | 65      | [Repeat Robotics](https://repeat-robotics.com/buy/2207-battle-ready-hubmotor/) |
-| Receiver             |        1 | $6         | $12         | 0.9     | [Aliexpress](https://www.aliexpress.us/item/3256804714662317.html?…) |
-| Weapon ESC           |        1 | $8         | $8          | 6.3     | [Aliexpress](https://www.aliexpress.us/item/3256808227888337.html?…) |
+| Part                 | Quantity | Price        | Total Price | Weight  | Provider |
+|----------------------|---------:|-------------:|------------:|--------:|----------|
+| Weapon               |        1 | $89          | $89         | 37.257  |  |
+| Top Plate CF         |        1 | $10          | $10         | 6.025   |  |
+| n10s                 |        2 | already owned|already owned| 8.13    | |
+|Maleki                |        1 | already owned|already owned| 5       ||
+| Weapon ESC           |        1 | $18.99       | $18.99      | 5       |  |
 | Drive ESC            |        2 | $6         | $12         | 12.3
 | Power Switch         |        1 | $9         | $9          | 2.15    | [Repeat Robotics](https://repeat-robotics.com/buy/fingertech-switch/) |
 | Batteries            |        2 | $12        | $24         | 28.93   | [Amazon](https://www.amazon.com/GAONENG-300mAh-Battery-Connector-Racing/dp/B07MTDCTCD?…) |
