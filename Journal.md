@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1c630ed6-64af-4705-b8f2-41b20e334500)---
+
 title: "150g Drum Combat Robot"
 author: "Luke"
 description: "This is an 150g drum/eggbeater vertical antweight combat robot"
