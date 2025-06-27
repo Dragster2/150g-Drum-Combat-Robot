@@ -31,24 +31,18 @@ The reason why I wanted to make this robot is because of many things. First I lo
 
 | Part                 | Quantity | Price        | Total Price | Weight  | Provider |
 |----------------------|---------:|-------------:|------------:|--------:|----------|
-| Weapon               |        1 | $89          | $89         | 37.257  |  |
-| Top Plate CF         |        1 | $10          | $10         | 6.025   |  |
+| Weapon               |        1 | $89          | $89         | 37.257  | [Pcbway](https://www.pcbway.com/) |
+| Top Plate CF         |        1 | $10          | $10         | 6.025   |  [RSL](https://shop.robotsmashingleague.com/products/custom-cnc-item)|
 | n10s                 |        2 | already owned|already owned| 8.13    | |
-|Maleki                |        1 | already owned|already owned| 5       ||
+|Maleki                |        1 | already owned|already owned| 5       | |
 | Weapon ESC           |        1 | $18.99       | $18.99      | 5       |  |
 | Battery              |        2 | already owned|already owned| 19      |
-| Weapon Motor         |        1 | $25          | $25         | 18   | [Repeat Robotics](https://repeat-robotics.com/buy/2004-direct-drive-motor-150g/) |
-| Powerswitch          |        1 |already owned |already owned| 2.15  |  |
-| Weapon               |        1 | $8         | $8          | 110     | [sendcutsend](https://app.sendcutsend.com/) |
-| Filament             |        1 | $33        | $33         |         | [Overture](https://overture3d.com/products/nylon-3d-printing-filament) |
-| Armor Sets           |        3 | 3d printed | 3d printed  | 28.07   |          |
-| Body                 |        3 | 3d printed | 3d printed  | 66.79   |          |
-| Uprights             |        3 | 3d printed | 3d printed  | 36      |          |
-| Lid                  |        3 | 3d printed | 3d printed  | 17.81   |          |
-| Forks                |        3 | 3d printed | 3d printed  | 5.44    |          |
-| Wheels               |        4 | 3d printed | 3d printed  | 34.4    |          |
-| Wires/Misc parts     |        0 | $0         | $0          | 6       |          |
-| Transmitter          |        0 | $0         | $0          |         |          |
-| Repeat shipping      |          |            | $5          |         |          |
-| Aliexpress shipping  |          |            | $7.25       |         |          |
+| Weapon Motor         |        1 | $25          | $25         | 18      | [Repeat Robotics](https://repeat-robotics.com/buy/2004-direct-drive-motor-150g/) |
+| Powerswitch          |        1 |already owned |already owned| 2.15    |  |
+| Bearing              |        1 |already owned |already owned|1        |  |
+| Axel                 |        1 |already owned |already owned|1        |  |
+| Main Chasis          |       1  | 3d printed   | 3d printed  | 20      |          |
+| Armor                |        2 | 3d printed   | 3d printed  | 3.22    |          |
+| Tpu bearing hub      |        1 | 3d printed   | 3d printed  | 0.51    |          |
+| Wires and Screws     |        1 |already owned |already owned| 17.81   |          |
 | **Totals**           |          |            | **$206**    | **450.39** |          |
