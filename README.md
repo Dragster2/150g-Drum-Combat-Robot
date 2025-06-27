@@ -44,5 +44,5 @@ The reason why I wanted to make this robot is because of many things. First I lo
 | Main Chasis          |       1  | 3d printed   | 3d printed  | 20      |          |
 | Armor                |        2 | 3d printed   | 3d printed  | 3.22    |          |
 | Tpu bearing hub      |        1 | 3d printed   | 3d printed  | 0.51    |          |
-| Wires and Screws     |        1 |already owned |already owned| 10      |          |
+| Wires and Screws     |        1 |already owned |already owned| 10      | [Amazon](https://www.amazon.com/uxcell-Phillips-Self-Tapping-Screw-100pcs/dp/B0CCRSNKRT?crid=3NX1NU2AE4VU&dib=eyJ2IjoiMSJ9.IqUuMQ9KmsOAfkGNK6qlZZ--C3KrsELAJZTsnV5hQYwWJW49vBU3Vh8MeNErQww-gz2_3hST9vU7StWR4zBBmob_Khh8UX7l5zigUC22lG3Q0NO4DmxB46hfI1qcGvA6F5fc_4X-_ha-0IjQyg-g81c0rWWn0_iucb-aVP3GCCwgwgOYA0ly51RnW4swfDed8RSqXru-HSflqqAm8oaEa61J2nww2P6fFummiobwKE0.cOJN7MFnSZWqV_i2csZOnBkBczlzL1uJoI_BgOLbWmE&dib_tag=se&keywords=plastight%2Bscrews%2B3mm&qid=1751040951&sprefix=plastight%2Bscrews%2B3mm%2Caps%2C197&sr=8-10&th=1)|
 | **Totals**           |          |            | **$206**    | **450.39** |          |
