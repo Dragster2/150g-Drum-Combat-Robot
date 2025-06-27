@@ -43,7 +43,7 @@ For drive, I am planning on running 2 n20s or n10s. N20s are more powerful so if
 
 ![image](https://github.com/user-attachments/assets/e2a3c0da-aee9-49a6-9394-90f127d840a5)
 
-The weapon has a bruhless motor meaning I would need to run a brushless esc. I am planning on running an 30 or 35amp esc. I have found these LANRC 35A ESC 2S-6S Brushless ESC Lipo BLHeli_S Electronic Speed. Only weights 6.6 grams!! They have plenty of amps and are a resable cost on amazon.
+The weapon has a brushless motor meaning I would need to run a brushless esc. I am planning on running an 30 or 35amp esc. I have found these LANRC 35A ESC 2S-6S Brushless ESC Lipo BLHeli_S Electronic Speed. Only weights 6.6 grams!! They have plenty of amps and are a resable cost on amazon.
 
 ![image](https://github.com/user-attachments/assets/64a30d7e-19e8-449a-a468-b93af0cb4ef7)
 
