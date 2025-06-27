@@ -9,7 +9,7 @@ created_at: "2025-06-25"
 
 # June 24, 2025 :Day 1, the start of the design.
 
-I have made many 1lb combat robots and one thing I always wanted to make is a drum/eggbeater. Making a drum/eggbeater with like titanium would be really expensive. So instead I am going to make a 150g bot that is a drum to be cheaper. The drum would be made out of aluminum with potential impact teath. I might be able to make a normal eggbeater if the material I choose is cheap enought.
+I have made many 1lb combat robots and one thing I always wanted to make is a drum/eggbeater. Making a drum/eggbeater with like titanium would be really expensive. So instead I am going to make a 150g bot that is a drum to be cheaper. The drum would be made out of aluminum with potential impact teath. I might be able to make a normal eggbeater if the material I choose is cheap enough.
 
 ![image](https://github.com/user-attachments/assets/c593a38a-ca7e-430c-ba52-2f272148c449)
 
