@@ -13,7 +13,7 @@ I have made many 1lb combat robots and one thing I always wanted to make is a dr
 
 ![image](https://github.com/user-attachments/assets/c593a38a-ca7e-430c-ba52-2f272148c449)
 
-My goal with this robot is too have all the weight i have into my weapon so I am going to do something like an 1lb robot I know call vector. By not having much armor and using that weight I gain with no or little armor towards my weapon. This will potential be better or just a bad idea. 
+My goal with this robot is to have all the weight into my weapon so I am going to do something like an 1lb robot I know called vector. By not having much armor and using that weight I gain with no or little armor towards my weapon. This will potential be better or just a bad idea. 
 
 ![image](https://github.com/user-attachments/assets/21403096-0b54-4678-b553-660596673bf7)
 
