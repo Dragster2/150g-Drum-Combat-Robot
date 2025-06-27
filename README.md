@@ -26,3 +26,29 @@ The reason why I wanted to make this robot is because of many things. First I lo
 # Wiring Diagram
 
 ![image](https://github.com/user-attachments/assets/2c715e26-2013-439d-b4a3-66f576b066c8)
+
+# BOM
+
+| Part                 | Quantity | Price      | Total Price | Weight  | Provider |
+|----------------------|---------:|-----------:|------------:|--------:|----------|
+| Weapon               |        1 | $89        |  $89        | 37.257  |  |
+| Top Plate CF         |        1 | $10        | $10         | 6.025   | [Repeat Robotics](https://teammalice.com/index.php/product/repeat-robotics-axle-ant-2pcs/) |
+| Weapon Motors        |        1 | $50        | $100        | 65      | [Repeat Robotics](https://repeat-robotics.com/buy/2207-battle-ready-hubmotor/) |
+| Receiver             |        1 | $6         | $12         | 0.9     | [Aliexpress](https://www.aliexpress.us/item/3256804714662317.html?…) |
+| Weapon ESC           |        1 | $8         | $8          | 6.3     | [Aliexpress](https://www.aliexpress.us/item/3256808227888337.html?…) |
+| Drive ESC            |        2 | $6         | $12         | 12.3
+| Power Switch         |        1 | $9         | $9          | 2.15    | [Repeat Robotics](https://repeat-robotics.com/buy/fingertech-switch/) |
+| Batteries            |        2 | $12        | $24         | 28.93   | [Amazon](https://www.amazon.com/GAONENG-300mAh-Battery-Connector-Racing/dp/B07MTDCTCD?…) |
+| Weapon               |        1 | $8         | $8          | 110     | [sendcutsend](https://app.sendcutsend.com/) |
+| Filament             |        1 | $33        | $33         |         | [Overture](https://overture3d.com/products/nylon-3d-printing-filament) |
+| Armor Sets           |        3 | 3d printed | 3d printed  | 28.07   |          |
+| Body                 |        3 | 3d printed | 3d printed  | 66.79   |          |
+| Uprights             |        3 | 3d printed | 3d printed  | 36      |          |
+| Lid                  |        3 | 3d printed | 3d printed  | 17.81   |          |
+| Forks                |        3 | 3d printed | 3d printed  | 5.44    |          |
+| Wheels               |        4 | 3d printed | 3d printed  | 34.4    |          |
+| Wires/Misc parts     |        0 | $0         | $0          | 6       |          |
+| Transmitter          |        0 | $0         | $0          |         |          |
+| Repeat shipping      |          |            | $5          |         |          |
+| Aliexpress shipping  |          |            | $7.25       |         |          |
+| **Totals**           |          |            | **$206**    | **450.39** |          |
