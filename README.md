@@ -36,9 +36,9 @@ The reason why I wanted to make this robot is because of many things. First I lo
 | n10s                 |        2 | already owned|already owned| 8.13    | |
 |Maleki                |        1 | already owned|already owned| 5       ||
 | Weapon ESC           |        1 | $18.99       | $18.99      | 5       |  |
-| Drive ESC            |        2 | $6         | $12         | 12.3
-| Power Switch         |        1 | $9         | $9          | 2.15    | [Repeat Robotics](https://repeat-robotics.com/buy/fingertech-switch/) |
-| Batteries            |        2 | $12        | $24         | 28.93   | [Amazon](https://www.amazon.com/GAONENG-300mAh-Battery-Connector-Racing/dp/B07MTDCTCD?…) |
+| Battery              |        2 | already owned|already owned| 19      |
+| Weapon Motor         |        1 | $25          | $25         | 18   | [Repeat Robotics](https://repeat-robotics.com/buy/2004-direct-drive-motor-150g/) |
+| Powerswitch          |        1 |already owned |already owned| 2.15  |  |
 | Weapon               |        1 | $8         | $8          | 110     | [sendcutsend](https://app.sendcutsend.com/) |
 | Filament             |        1 | $33        | $33         |         | [Overture](https://overture3d.com/products/nylon-3d-printing-filament) |
 | Armor Sets           |        3 | 3d printed | 3d printed  | 28.07   |          |
