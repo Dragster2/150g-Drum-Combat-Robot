@@ -161,11 +161,11 @@ Here what it looks like on the weapon too!! Will be made out of 95 tpu that I ha
 
 ![image](https://github.com/user-attachments/assets/8bb7c8d6-0188-4db1-8e92-da5dbb9ff8fc)
 
-Bearing goes in the hole.
+Bearing goes in the hole. The tpu stops if from falling out. Also it helps if I need to change the hub size if the weapon hole is too small. 
 
 ![image](https://github.com/user-attachments/assets/3254fb6d-801a-4f60-8131-d1459152f5a1)
 
-How it looks on the robot now!!
+How it looks on the robot now!! It looks clean and does not mess with anything else mostly on the bot.
 
 ![image](https://github.com/user-attachments/assets/72e532fa-3de0-4ddb-b0c6-6a63f52f1771)
 
@@ -237,6 +237,7 @@ After all the changes I am finally in weight! This is the final version of the b
 
 ![image](https://github.com/user-attachments/assets/a1f608ca-3bd4-498a-984a-7387e7887e8f)
 
+I got my qoute back from PCBway and the weapon would cost $89. I believe this is a good price. The tires are lego tires I have on hand. This robot has a big weapon and can't wait to see how this performs in a real comp!!
 
 **Total Time Spent: 8hr** 
 
