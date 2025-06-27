@@ -244,7 +244,7 @@ After all the changes I am finally in weight! This is the final version of the b
 ![image](https://github.com/user-attachments/assets/30bb523e-b5a3-4d46-922e-e44a5b129b61)
 
 
-I got my qoute back from PCBway and the weapon would cost $89. I believe this is a good price. The tires are lego tires I have on hand. This robot has a big weapon and can't wait to see how this performs in a real comp!!
+I got my qoute back from PCBway and the weapon would cost $89. I believe this is a good price. The tires are lego tires I have on hand. This robot has a big weapon, the thing I wanted for this robot! I can't wait to see how this performs in a real comp!!
 
 **Total Time Spent: 8hr** 
 
