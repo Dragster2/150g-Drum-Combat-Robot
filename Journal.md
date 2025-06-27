@@ -35,32 +35,30 @@ This is a 150g eggbeater know as baby agression.
 
 # June 25, 2025 :Day 2, Finding Electronics and the start of Cad!!
 
-I have made many other combat robots and for this tiny of a robot I am going to use a HV Maleki. A maleki is a reciever with 3 brush esc built into it. I already have one on hand so I do not need one. :)
+I have made many other combat robots and for this tiny of a robot I am going to use a HV Maleki. A maleki is a reciever with 3 brushed esc's built into it. I already have one on hand so I do not need one. :)
 
 ![image](https://github.com/user-attachments/assets/f1d989c9-0409-46c7-bafd-dce53fcdc135)
 
-For drive, I am planning on running 2 n20s or n10s. N20s are more powerful so if I have the weight I run 2 n20s. I already have some n20s from turnabot on hand too. :)
+For my drive, I am planning on running 2 n20s or n10s. N20s are more powerful so if I have the weight I will run 2 n20s. I already have some n20s from turnabot on hand too. :)
 
 ![image](https://github.com/user-attachments/assets/e2a3c0da-aee9-49a6-9394-90f127d840a5)
 
-The weapon has a brushless motor meaning I would need to run a brushless esc. I am planning on running an 30 or 35amp esc. I have found these LANRC 35A ESC 2S-6S Brushless ESC Lipo BLHeli_S Electronic Speed. Only weights 6.6 grams!! They have plenty of amps and are a resable cost on amazon.
+The weapon has a brushless motor meaning I would need to run a brushless esc. I am planning on running a 30 or 35amp esc. I have found these LANRC 35A ESC 2S-6S Brushless ESC Lipo BLHeli_S Electronic Speed. They only weights 6.6 grams!! They have plenty of amps and are a reasonable price on amazon.
 
 ![image](https://github.com/user-attachments/assets/64a30d7e-19e8-449a-a468-b93af0cb4ef7)
 
 
-
-
-For the weapon motor, I am using light but powerful weapon motor. After asking around I have found the FLASH HOBBY BE1806 2300KV Brushless Motor Race Edition which is reliable and is only 18g!! I will either use this one or a potential one that repeat robotics sells. 
+For the weapon motor, I am using a light but powerful weapon motor. After asking around I have found the FLASH HOBBY BE1806 2300KV Brushless Motor Race Edition which is reliable and is only 18g!! I will either use this one or a potential one that repeat robotics sells. 
 
 ![image](https://github.com/user-attachments/assets/cbecf5bf-21d7-4de3-8c35-fa7ac20a136a)
 
 
 
-For the power switch I am running the fingertech power switchs. They are reliably and never failed me before. I have one extra so I do not need this. :)
+For the power switch I am running a fingertech power switch. They are reliable and never failed me before. I have one extra so I do not need this. :)
 
 ![image](https://github.com/user-attachments/assets/aebfa1a0-6b2a-4832-a659-6acff0f6f209)
 
-And finally I need a battery to power the whole bot. Am planning on running 2s and probbaly below 200 or maybe 300. I think I am planning on running 300amp because it might be overkill but at least i can keep my weapon on for longer now! :) These are the batteries I am planning on using! My friend will let me buy some of his so for now I do not need these!!
+And finally I need a battery to power the whole bot. Am planning on running 2s and probably below 200 or maybe 300mah. I think I am planning on running 300mah because it might be overkill but at least i can keep my weapon on for longer now! :) These are the batteries I am planning on using! My friend will let me buy some of his so for now I do not need these!!
 
 ![image](https://github.com/user-attachments/assets/41895e2c-9207-4f74-8bb7-7e32596d6653) 
 
@@ -76,14 +74,14 @@ I spent some time on some uprights and made them a little goofy but I think it b
 
 ![image](https://github.com/user-attachments/assets/b56b2c6f-1837-44a6-9f62-778971bf3c8c)
 
-I started on the weapon. I have the weapon motor in the weapon, easier than using belts and have porven to be reliably in other bots people and I have made. 
+I started on the weapon. I have the weapon motor in the weapon, easier than using belts and have proven to be reliable in other bots that other people and I have made. 
 
 
 ![image](https://github.com/user-attachments/assets/8f41a8ef-e313-47ce-a954-dc6800e13abc)
 
 ![image](https://github.com/user-attachments/assets/77644300-5baa-4e99-b49a-d4222de04381)
 
- I went to check how much it is and it turns out to be a decent price even with a hard material like tool steal. Am going to redesign to be normal eggbeater. This means with no screw on teath. 
+ I went to check how much it is and it turns out to be a decent price even with a hard material like s7 tool steel. I'm going to redesign the weapon to be normal eggbeater. This means with no screw on teeth. 
 
  ![image](https://github.com/user-attachments/assets/9c6eac69-b53c-4bed-b7b4-3d94ab1ddfd3)
 
@@ -92,31 +90,31 @@ I started on the weapon. I have the weapon motor in the weapon, easier than usin
 
 # June 26, 2025 :Day 3 cad!!
 
-Started today by making a new weapon that will be made out of tool steal. This weapon is solid and does not need screws as teath like my old weapon did. 
+I started today by making a new weapon that will be made out of tool steel. This weapon is solid and does not need screws as teeth like my old weapon did. 
 
 ![image](https://github.com/user-attachments/assets/8185e9d8-83c2-4cff-b622-d6446a6a85f8)
 
 ![image](https://github.com/user-attachments/assets/e87c9964-d1d0-4c15-807a-2dd08ff8319b)
 
-Redoing the cad for this smaller but wider weapon that would be made out of tool steal s7. I am making it wide like vector does because I think it looks clean and would make it be better for damage too. 
+Redoing the cad for this smaller but wider weapon that would be made out of s7 tool steel. I am making it wide like vector does because I think it looks clean and would make it be better for damage too. 
 
 ![image](https://github.com/user-attachments/assets/d1bd2225-d98d-4cc0-a33f-49686a9ef89d)
 
-I decided to change to this motor that is made for combat. This motor is from Repeat Robotics and would fit nicely on my new weapon. It is a little more money but it is a gopod motor. I also can choose what kv I want. Lower kv means less top speed but more torque and higher Kv means higher top speed less torque. I was thinking on the lower put not thinking about ti I should go all out with the higher kv one because it will probably do more damage and I have a big battery for it. 
+I decided to change to this motor that is made for combat. This motor is from Repeat Robotics and would fit nicely on my new weapon. It is a little more money but it is a good motor. I also can choose what kv I want. Lower kv means less top speed but more torque and higher Kv means higher top speed less torque. I was thinking on the lower but now thinking about it I should go all out with the higher kv one because it will probably do more damage and I have a big battery for it. 
 
 ![image](https://github.com/user-attachments/assets/73a1eb0f-0bd0-4404-84c1-190b061a88cd)
 
-Continuing cadding the robot weapons and its body. Defentily going to be a wide bot. That is a good thing because it is harder for the oponent to get around you. Hopefully this will be in weight!!
+Continuing cadding the robots weapon and its body. Its definitely going to be a wide bot. That is a good thing because it is harder for the opponent to get around you. Hopefully this will be in weight!!
 
 ![image](https://github.com/user-attachments/assets/7c159a14-9007-44cb-b3b6-3a381920b490)
 
-More photos nnshowing off the inside and how it looks at this point of me cadding the bot. I think this looks way better than the first one!!
+More photos showing off the inside and how it looks at this point of me cadding the bot. I think this looks way better than the first one!!
 
 ![image](https://github.com/user-attachments/assets/4511757f-d40f-45c9-9014-48bf1d028403)
 
 ![image](https://github.com/user-attachments/assets/7b51d6da-3bb9-46e4-963e-a019fc04507a)
 
-Made some motor mounts for the n20s. I did this by making a sketch off the n20s and projecting the line from it. I made a box around them so they can just slide in from the top. They should saty in place! Making it have screws. This will make repairing and assembly way easier in my oponion!!
+Made some motor mounts for the n20s. I did this by making a sketch off the n20s and projecting the line from it. I made a box around them so they can just slide in from the top. They should stay in place! Making it have screws. This will make repairing and assembly way easier in my oponion!!
 
 ![image](https://github.com/user-attachments/assets/49123c0a-5d4e-4c88-a550-748faa850b78)
 
@@ -125,7 +123,7 @@ Made some motor mounts for the n20s. I did this by making a sketch off the n20s 
 
 ![image](https://github.com/user-attachments/assets/f2835261-bc3e-41bd-9fa0-69ebdec22392)
 
-Seeing how much the weapon would cost, does not seem bad at only around 40 but I still need a person to look at it too see how much it acutally cost. Hopefully tis not that bad.
+Seeing how much the weapon would cost, does not seem bad at only around 40 but I still need a person to look at it too see how much it actually cost. Hopefully its not that bad.
 
 ![image](https://github.com/user-attachments/assets/deb079cd-00b3-4822-b42d-76ee2f33cad8)
 
@@ -137,7 +135,7 @@ Started on some armor. I wanted to mount the forks to the armor. Forks are helpf
 
 ![image](https://github.com/user-attachments/assets/ce414a26-08b0-49bc-8f15-98840752d9b9)
 
-Made some armor mounts!! I mounted the armor in the middle to hold it on and in the front to to help with the fork. Hopefully this is solid enought!!
+Made some armor mounts!! I mounted the armor in the middle to hold it on and in the front to help with the fork. Hopefully this is solid enough!!
 
 ![image](https://github.com/user-attachments/assets/c58fc70d-ec8e-4aba-9ee5-6dab6b2aef02)
 
@@ -147,15 +145,15 @@ Got the screw holes for it. For tpu you want the hole to be 1.8mm wide for a 3mm
 
 ![image](https://github.com/user-attachments/assets/8e1478be-ceb8-4ec7-a572-b1d44f0c919c)
 
-More mounting. The armor is mounted by 2 screws on both sides. For both armor, 4 screws are necesarey. Not bad. 
+More mounting. The armor is mounted by 2 screws on both sides. For both armor, 4 screws are necessary. Not bad. 
 
  ![image](https://github.com/user-attachments/assets/288fd03c-cb15-4ec7-ae3f-f098c06790fe)
 
-One side of the weapon is hold by the motor but the other side needs something to hold it. I am going to run a repeat axel that I have on hand with a bearing that I also have on hand to hold the other side! I have done this with my plant that is a all plastic 1lb combat robot and seems to work really well. This should be pletny of strenght to hold this weapon too. 
+One side of the weapon is held by the motor and the other side needs something to hold it. I am going to run a repeat axel that I have on hand with a bearing that I also have on hand to hold the other side! I have done this with my plant that is a all plastic 1lb combat robot and seems to work really well. This should be plenty of strength to hold this weapon too. 
 
 ![image](https://github.com/user-attachments/assets/d00cb4bc-034d-460e-9b6a-cfec7e2558fe)
 
-This is an tpu bearing adopter for bearing to go on the weapon. The bearing adopter would help absorb the impact wit the weapon hit the other bot. It also holds the bearing in place. two for one deal. 
+This is an tpu bearing adapter for bearing to go on the weapon. The bearing adopter would help absorb the impact when the weapon hits the other bot. It also holds the bearing in place. two for one deal. 
 
 ![image](https://github.com/user-attachments/assets/0dd05642-640a-4515-9754-22e31d17fea8)
 
@@ -171,11 +169,11 @@ How it looks on the robot now!! It looks clean and does not mess with anything e
 
 ![image](https://github.com/user-attachments/assets/72e532fa-3de0-4ddb-b0c6-6a63f52f1771)
 
-Before I start to work on the top lid with the screw holes, I decided to render the bot to see what it looks like. In my opion I think it is looking really good so far. All the black on the bot is made out of 95 tpu that I have and the white taht is the main body will be made out of 98 tpu that I also have. The weapon is going to be made from pcbway out of toolsteel s7!
+Before I start to work on the top lid with the screw holes, I decided to render the bot to see what it looks like. In my opinion I think it is looking really good so far. All the black on the bot is made out of 95 tpu that I have and the white that is the main body will be made out of 98 tpu that I also have. The weapon is going to be made from pcbway out of s7 tool steel!
 
 ![image](https://github.com/user-attachments/assets/b8ac0d89-9351-46b9-8826-8a4758d051c4)
 
-I made the top lid screw holes and a hole for the switch. Next I need to start on weight calcs to see if this is in weight. Hopefully it is.
+I made the top lid screw holes and a hole for the switch. Next I need to start on weight calculations to see if this is in weight. Hopefully it is.
 
 ![image](https://github.com/user-attachments/assets/0857d10c-0895-4a22-9457-ac7592ea9cb8)
 
@@ -191,11 +189,11 @@ Armor with 4 walls 15 percent infil is 3.19g each. The reason why I would not wa
 
 ![image](https://github.com/user-attachments/assets/2eb2ed1f-3921-43ad-ab0f-954e0e102671)
 
-With everything at 4 walls I am overweight. This is okay because I dont need this many walls for the tpu. For example the top lid does not need to be this solid and also I doubt I have 10 grams of wires in this bot. I need to play around with it more.
+With everything at 4 walls I am overweight. This is okay because I don't need this many walls for the tpu. For example the top lid does not need to be this solid and also I doubt I have 10 grams of wires in this bot. I need to play around with it more.
 
 ![image](https://github.com/user-attachments/assets/9be0a5fb-5087-4450-b06b-680e3c9eb8e0)
 
-I updated the main chasis to be 26.61 grams. I also updated the armor too. Good thing the hub is light tho!! The problem is this is not enought. I am not even counting the tires yet! I will need to make some changes.
+I updated the main chassis to be 26.61 grams. I also updated the armor too. Good thing the hub is light tho!! The problem is this is not enough. I am not even counting the tires yet! I will need to make some changes.
 
 
 ![Screenshot 2025-06-26 125646](https://github.com/user-attachments/assets/4fcbb8ec-b536-4e9b-9294-4672254beeed)
@@ -206,12 +204,12 @@ I updated the main chasis to be 26.61 grams. I also updated the armor too. Good 
 
 ![image](https://github.com/user-attachments/assets/b86660ca-a2e1-4f2d-91ae-ab4eb834f43e)
 
-Now this is the hard bot, it might look done but in reality I need to lose a lot of weight off this bot. I was thinkig on making the eapon smaller but, then I am not putting all the weight into my weapon like I said before. Therefore, I am going to try my best to not change the weapon. I am ovber by 6 grams. I could lose this weight by only going 1 wall for my main chasis but I feel like that be way to weak. I cant take anymore off the armor unless I pyscally make it smaller. I still need to but the weight of the wheel in too. I could swap my n20s for n10s that are lighter. But i dont save much. The top plate is 8grams and honesalty that is way to much. But how can I lose this weight. I can't change the infill anymore, it would still weight the same. I could try a different material. But if I decided to make out of carbon or something else it might be too expensive. I could take off the armor but the armor is only 2 grams now. I think I need to do a combination of main chasis infil and walls and change the top plate. Robot Smashing League makes good carbon fiber for cheap. I might try this but I don't know if it would come in time for the Hack Club event I want to go with my friend for the first time. 
+Now this is the hard part, it might look done but in reality I need to lose a lot of weight off this bot. I was thinking on making the weapon smaller but, then I am not putting all the weight into my weapon like I said before. Therefore, I am going to try my best to not change the weapon. I am over by 6 grams. I could lose this weight by only going 1 wall for my main chassis but I feel like that be way to weak. I cant take anymore off the armor unless I physically make it smaller. I still need to put the weight of the wheel in too. I could swap my n20s for n10s that are lighter. But i wont save much. The top plate is 8grams and honesty that is way to much. But how can I lose this weight. I can't change the infill anymore, it would still weigh the same. I could try a different material. But if I decided to make out of carbon or something else it might be too expensive. I could take off the armor but the armor is only 2 grams now. I think I need to do a combination of main chassis infill and walls and change the top plate. Robot Smashing League makes good carbon fiber for cheap. I might try this but I don't know if it would come in time for the Hack Club event I want to go with my friend for the first time. 
 
 
 ![image](https://github.com/user-attachments/assets/61d9a2ec-8cb4-45ff-b80a-d6735076e734)
 
-I decided to start by taking even more weight off of the main chasis. Its basically hollow inside hopefully this does not become a problem. Good thing tpu is a strong flexible material!! Changing the toplid to carbon fiber makes it 6.025g.
+I decided to start by taking even more weight off of the main chassis. Its basically hollow inside hopefully this does not become a problem. Good thing tpu is a strong flexible material!! Changing the top lid to carbon fiber makes it 6.025g.
 
 ![image](https://github.com/user-attachments/assets/da8c0988-0309-45c9-a1be-eb9a9acc6764)
 
@@ -229,7 +227,7 @@ Both of these changes helped it out a little but I still need to take more weigh
 
 ![image](https://github.com/user-attachments/assets/0aebe7d0-d520-43f3-845b-d3e846900b32)
 
-To lose even more weight I think I need to switch to 2 n10s instead of 2 n20s. I would save about 1 grams from each motor. I can also have a smaller battery for this bot. The problem is I already have these small bateries and I want to use them. What else can I do? I think I need to mess with the armor a little more so I can lose a couple more grams hopefully!! 
+To lose even more weight I think I need to switch to 2 n10s instead of 2 n20s. I would save about 1 grams from each motor. I can also have a smaller battery for this bot. The problem is I already have these small batteries and I want to use them. What else can I do? I think I need to mess with the armor a little more so I can lose a couple more grams hopefully!! 
 
 ![image](https://github.com/user-attachments/assets/4d495c4f-c648-4a11-9d1c-2d0ce5a65839)
 
@@ -244,15 +242,8 @@ After all the changes I am finally in weight! This is the final version of the b
 ![image](https://github.com/user-attachments/assets/30bb523e-b5a3-4d46-922e-e44a5b129b61)
 
 
-I got my qoute back from PCBway and the weapon would cost $89. I believe this is a good price. The tires are lego tires I have on hand. This robot has a big weapon, the thing I wanted for this robot! I can't wait to see how this performs in a real comp!!
+I got my quote back from PCBway and the weapon would cost $89. I believe this is a good price. The tires are Lego tires I have on hand. This robot has a big weapon, the thing I wanted for this robot! I can't wait to see how this performs in a real comp!!
 
 **Total Time Spent: 8hr** 
-
-
-
-
-
-
-
 
 
