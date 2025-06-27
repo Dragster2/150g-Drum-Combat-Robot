@@ -7,7 +7,7 @@ This is going to be a 150g eggbeater/drum combat robot that will fight at many c
 
 The reason why I wanted to make this robot is because of many things. First I love combat robotics and have made many 1lb 3lb and 15lb robots before. I always wanted to try making a 150g combat robot and now is my chance! With my experience in combat there was always one weapon I wanted to make and that was an eggbeater. Since this is a smaller weight class the 500 dollar eggbeater is now only around 100. This gives me the chance to make a robot I always wanted to make before. I have seen a battlebot called vector on youtube that has a big eggbeater with a really high kv weapon motor making it spin over 220 mph. This is a robot that I been waiting for to make for a long time and now I have a chance of making it. 
 
-# Rendee pictures of Dragster Jr. 
+# Render pictures of Dragster Jr. 
 
 ![image](https://github.com/user-attachments/assets/a1f608ca-3bd4-498a-984a-7387e7887e8f)
 
