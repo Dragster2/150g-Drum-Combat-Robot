@@ -44,5 +44,5 @@ The reason why I wanted to make this robot is because of many things. First I lo
 | Main Chasis          |       1  | 3d printed   | 3d printed  | 20      |          |
 | Armor                |        2 | 3d printed   | 3d printed  | 3.22    |          |
 | Tpu bearing hub      |        1 | 3d printed   | 3d printed  | 0.51    |          |
-| Wires and Screws     |        1 |already owned |already owned| 17.81   |          |
+| Wires and Screws     |        1 |already owned |already owned| 10      |          |
 | **Totals**           |          |            | **$206**    | **450.39** |          |
