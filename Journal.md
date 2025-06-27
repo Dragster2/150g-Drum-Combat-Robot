@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/1c630ed6-64af-4705-b8f2-41b20e334500)---
 title: "150g Drum Combat Robot"
 author: "Luke"
 description: "This is an 150g drum/eggbeater vertical antweight combat robot"
@@ -45,7 +45,9 @@ For drive, I am planning on running 2 n20s or n10s. N20s are more powerful so if
 
 The weapon has a bruhless motor meaning I would need to run a brushless esc. I am planning on running an 30 or 35amp esc. I have found these LANRC 35A ESC 2S-6S Brushless ESC Lipo BLHeli_S Electronic Speed. Only weights 6.6 grams!! They have plenty of amps and are a resable cost on amazon.
 
-[image](https://github.com/user-attachments/assets/caddb57a-d1a4-4daf-8c36-54caf876156f)
+![image](https://github.com/user-attachments/assets/64a30d7e-19e8-449a-a468-b93af0cb4ef7)
+
+
 
 
 For the weapon motor, a light but powerful weapon motor. After asking around I have found the FLASH HOBBY BE1806 2300KV Brushless Motor Race Edition that is reliable and is only 18g!! I either use this one or potential one that repeat robotics sell. 
@@ -236,6 +238,11 @@ To lose even more weight I think I need to switch to 2 n10s instead of 2 n20s. I
 After all the changes I am finally in weight! This is the final version of the bot!
 
 ![image](https://github.com/user-attachments/assets/a1f608ca-3bd4-498a-984a-7387e7887e8f)
+
+![image](https://github.com/user-attachments/assets/7fd58f4c-03b0-4315-ae00-1a6c617826dc)
+
+![image](https://github.com/user-attachments/assets/30bb523e-b5a3-4d46-922e-e44a5b129b61)
+
 
 I got my qoute back from PCBway and the weapon would cost $89. I believe this is a good price. The tires are lego tires I have on hand. This robot has a big weapon and can't wait to see how this performs in a real comp!!
 
