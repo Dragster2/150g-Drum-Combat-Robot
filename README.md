@@ -36,12 +36,12 @@ The new design for the event!
 
 | Part                 | Quantity | Price        | Total Price | Weight  | Provider |
 |----------------------|---------:|-------------:|------------:|--------:|----------|
-| Weapon               |        1 | $89          | $89         | 37.257  | [Pcbway](https://www.pcbway.com/) |
-| Top Plate CF         |        1 | $10          | $10         | 6.025   |  [RSL](https://shop.robotsmashingleague.com/products/custom-cnc-item)|
-| n10s                 |        2 | already owned|already owned| 16.26   | [Turnabot](https://turnabot.com/products/high-power-n10)|
-|Maleki                |        1 | already owned|already owned| 5       | [Turnabot](https://turnabot.com/products/mni-hv)|
+| Weapon               |        2 | $0           | $0          | 21      |   |
+| Top Plate CF         |        2 | $0           | $0          | 8       |  [RSL](https://shop.robotsmashingleague.com/products/custom-cnc-item)|
+| n20s                 |        2 | already owned|already owned| 16.26   | [Turnabot](https://turnabot.com/products/high-power-n10)|
+|Maleki                |        2 | $28          | $28         | 5       | [Turnabot](https://turnabot.com/products/malenki-nano-integrated-6-channel-triple-electronic-speed-controller-receiver-combo)|
 | Weapon ESC           |        1 | $18.99       | $18.99      | 5       | [Amazon](https://www.amazon.com/dp/B0F8P985VQ?_encoding=UTF8&th=1)|
-| Battery              |        2 | already owned|already owned| 19      |  [Amazon](https://www.amazon.com/dp/B0D2L17M8H?ref=ppx_yo2ov_dt_b_fed_asin_title)
+| Battery              |        2 | |already owned| 19      |  [Amazon](https://www.amazon.com/dp/B0D2L17M8H?ref=ppx_yo2ov_dt_b_fed_asin_title)
 | Weapon Motor         |        1 | $25          | $25         | 18      | [Repeat Robotics](https://repeat-robotics.com/buy/2004-direct-drive-motor-150g/) |
 | Powerswitch          |        1 |already owned |already owned| 2.15    | [Repeat Robotics](https://repeat-robotics.com/buy/fingertech-switch/) |
 | Bearing              |        1 |already owned |already owned|1        | [Amazon](https://www.amazon.com/uxcell-MR115-2RS-Groove-Bearings-Double/dp/B082PS6D6P?crid=232ULCGI0II1O&dib=eyJ2IjoiMSJ9.gOGxM5MhB6O2Snjy--6wkYLAv-0jcwgg347FdNQL6H8t9miHrJ1F5uDeQgV4AZUMw1I4-VOvB35q9E57MM0Ov0OndfeGTCTmoF_-5OdzYjdtgInkqysnqoar9_i_UJA3QqNidpOguXBOFzES8DZhY9vceoVSYIv61pEg0WWw5rNRSMZ5dOfxG-ItPEclLxga-TDbFvmfUmiLL9nAjfEtLM3h3pSjFFh0boOwXccojJk.EpdOybQQYuoLHt_Mol9oW6Sjo-AdmFQjwgrxmDZbaTQ&dib_tag=se&keywords=uxcell%2B5mm%2Bbearing%2B11mm%2Bd&qid=1751040769&sprefix=uxcell%2B5mm%2Bbearing%2B11mm%2Bd%2Caps%2C146&sr=8-3&th=1)| 
