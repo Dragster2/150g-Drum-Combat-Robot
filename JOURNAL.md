@@ -246,4 +246,18 @@ I got my quote back from PCBway and the weapon would cost $89. I believe this is
 
 **Total Time Spent: 8hr** 
 
+# June 30, 2025 :Day 4, The tail of two bots. 
+
+I had got my robot approved!! I was really excited to get everthing order but my weapon from pcbway and the shipping was an extra 100 dollars. I have no idea what I was going to do but I decided to go back to my orginal design. I am going to 3d print a drum out of super pla plus and buy Titanium screws to act like impact teath. I could also make a flat aluminium bar and but impact teath. Then it hit me! I can make two bots if I make the hub 3d printed and add impact screws into it. This can be perfect for the highway event because I can have people drive one! My new plan is too make two of them now!
+
+
+
+![image](https://github.com/user-attachments/assets/3ec6b8a5-7cc5-45ed-8a0b-d21b330ad788)
+
+
+![image](https://github.com/user-attachments/assets/2554e91b-a518-48ea-be7b-c8f19d0d69e8)
+
+
+
+
 
