@@ -256,7 +256,8 @@ I had got my robot approved!! I was really excited to get everthing order but my
 
 
 
-![image](https://github.com/user-attachments/assets/2554e91b-a518-48ea-be7b-c8f19d0d69e8)
+![image](https://github.com/user-attachments/assets/107eabca-375b-4435-94a7-9cddecfb5762)
+
 
 **Total Time Spent: 1hr** 
 
