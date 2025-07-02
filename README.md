@@ -36,7 +36,7 @@ The new design for the event!
 
 | Part                 | Quantity | Price        | Total Price | Weight  | Provider |
 |----------------------|---------:|-------------:|------------:|--------:|----------|
-| Weapon               |        1 | $10          | $10         | 21      |   |
+| Weapon               |        1 | $10          | $10         | 21      |[Amazon](https://www.amazon.com/Titanium-Countersunk-Head-Screws-Pack/dp/B0037Y3IEQ/ref=sr_1_3?crid=279LCIGW1HHJ&dib=eyJ2IjoiMSJ9.dKit4HSUvfT6AQ3QvgBxCVcYMVUs4q_P184AqRQTOkVUZfFA8pK9dThFzk2zwzlmul-OxPJhnaGyi-6OPg61VmC0Xap0ZALsLiNEVKSTOCWuXzHhQggpa5HVuMqW62BWutUZdbZEi1EMRDe-zCRIx4Jy7NKN29vrrH6ZxZFKuj4XMSb54jmNpKhWLm3sNrFwehT8QtwnKUzWXWElH-gclXiiEC1GFNXCy_HeKXXfobg.oO1r974v4WVIu31Xuqez-M_AqDrlFUfP1cJ5OkytHNU&dib_tag=se&keywords=3mm%2Btitanium%2Bscrew&qid=1751496384&sprefix=3mm%2Btitiaum%2Bscre%2Caps%2C279&sr=8-3&th=1)   |
 | Top Plate CF         |        1 | $2.5         | $7.5        |6.35   |  [RSL](https://shop.robotsmashingleague.com/products/custom-cnc-item)|
 | n20s                 |        2 | already owned|already owned| 16.26   | [Turnabot](https://turnabot.com/products/high-power-n10)|
 |Maleki                |        1 | already owned|already owned| 5       | [Turnabot](https://turnabot.com/products/malenki-nano-integrated-6-channel-triple-electronic-speed-controller-receiver-combo)|
