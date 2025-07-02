@@ -25,7 +25,14 @@ The reason why I wanted to make this robot is because of many things. First I lo
 
 The new design for the event!
 
-![image](https://github.com/user-attachments/assets/80014670-7f76-407f-b351-923eb1538667)
+![Screenshot 2025-07-02 161636](https://github.com/user-attachments/assets/1de84293-9dbf-42a5-a0d3-1fdc764b8622)
+
+
+
+Here is a top view!
+
+![image](https://github.com/user-attachments/assets/c04f23ea-916c-424e-9cbc-935f9ec18323)
+
 
 
 # Wiring Diagram
