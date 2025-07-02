@@ -36,10 +36,10 @@ The new design for the event!
 
 | Part                 | Quantity | Price        | Total Price | Weight  | Provider |
 |----------------------|---------:|-------------:|------------:|--------:|----------|
-| Weapon               |        2 | $0           | $0          | 21      |   |
-| Top Plate CF         |        2 | $0           | $0          | 8       |  [RSL](https://shop.robotsmashingleague.com/products/custom-cnc-item)|
+| Weapon               |        1 | $10          | $10         | 21      |   |
+| Top Plate CF         |        1 | $2.5         | $7.5        |6.35   |  [RSL](https://shop.robotsmashingleague.com/products/custom-cnc-item)|
 | n20s                 |        2 | already owned|already owned| 16.26   | [Turnabot](https://turnabot.com/products/high-power-n10)|
-|Maleki                |        2 | $28          | $28         | 5       | [Turnabot](https://turnabot.com/products/malenki-nano-integrated-6-channel-triple-electronic-speed-controller-receiver-combo)|
+|Maleki                |        1 | already owned|already owned| 5       | [Turnabot](https://turnabot.com/products/malenki-nano-integrated-6-channel-triple-electronic-speed-controller-receiver-combo)|
 | Weapon ESC           |        1 | $18.99       | $18.99      | 5       | [Amazon](https://www.amazon.com/dp/B0F8P985VQ?_encoding=UTF8&th=1)|
 | Battery              |        2 | |already owned| 19      |  [Amazon](https://www.amazon.com/dp/B0D2L17M8H?ref=ppx_yo2ov_dt_b_fed_asin_title)
 | Weapon Motor         |        1 | $25          | $25         | 18      | [Repeat Robotics](https://repeat-robotics.com/buy/2004-direct-drive-motor-150g/) |
