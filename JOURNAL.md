@@ -5,7 +5,7 @@ description: "This is an 150g drum/eggbeater vertical antweight combat robot"
 created_at: "2025-06-25"
 ---
 
-# Total Time Spent 13 hour
+# Total Time Spent 14 hours
 
 # June 24, 2025 :Day 1, the start of the design.
 
@@ -252,11 +252,13 @@ I had got my robot approved!! I was really excited to get everthing order but my
 
 
 
-![image](https://github.com/user-attachments/assets/3ec6b8a5-7cc5-45ed-8a0b-d21b330ad788)
+![Screenshot 2025-07-02 161636](https://github.com/user-attachments/assets/e16d4a2c-f571-4efd-912d-b80ee1b23dd9)
+
 
 
 ![image](https://github.com/user-attachments/assets/2554e91b-a518-48ea-be7b-c8f19d0d69e8)
 
+**Total Time Spent: 1hr** 
 
 
 
